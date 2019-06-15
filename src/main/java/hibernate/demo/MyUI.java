@@ -17,7 +17,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 
-/** http://localhost:8080/vaadin-1.0-SNAPSHOT/MyUIServlet
+/** http://localhost:8080/LestStart-1.0-SNAPSHOT/StudentUIServlet
  * This UI is the application entry point. A UI may either represent a browser window 
  * (or tab) or some part of an HTML page where a Vaadin application is embedded.
  * <p>
