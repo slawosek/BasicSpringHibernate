@@ -27,3 +27,5 @@ In line 115 if doucment:
 War file for application server will be deployed in given directory. It needs to be changed to servers directory, that will deploy war.
 
 To deploy war file use maven build check: clean, install and run the application.
+
+To access application go to address: http://localhost:8080/LestStart-1.0-SNAPSHOT/StudentUIServlet
